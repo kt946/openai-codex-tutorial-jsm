@@ -1,1 +1,1 @@
-# OpenAi Codex Tutorial JSM
+# OpenAI Codex Tutorial JSM
